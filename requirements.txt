@@ -1,5 +1,5 @@
 streamlit==1.40.2
-torch==2.2.1  # Changed to match torchvision requirement
+torch==2.2.1
 torchvision==0.17.1
 Pillow==10.3.0
-numpy==1.26.4  # Added for stability
+numpy==1.26.4
